@@ -15,7 +15,7 @@ building blocks for programs are same for all paradigms anyway.
 Installing Python
 ==================
 
-We use the package manager conda for its isolation of environments. We are
+We use the package manager conda for isolating work spaces. We are
 going to miniconda distribution.
 
 You can download it from 
