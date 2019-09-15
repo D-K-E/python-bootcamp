@@ -19,7 +19,7 @@ We use the package manager conda for isolating work spaces. We are
 going to miniconda distribution.
 
 You can download it from 
-`here https://docs.conda.io/en/latest/miniconda.html`_.
+`here <https://docs.conda.io/en/latest/miniconda.html>`_.
 
 We are going to use python 3.
 
