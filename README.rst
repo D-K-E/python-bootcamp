@@ -26,7 +26,7 @@ We are going to use python 3.
 Once you have downloaded, and run the installer.
 
 - Open your terminal, or anaconda prompt if you are on windows.
-- Write the following and press enter at the end of each line:
+- Write the following and press enter:
 
   - :code:`conda --version`
   - :code:`conda create -n yapp`
