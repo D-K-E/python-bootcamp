@@ -27,7 +27,7 @@ Once you have downloaded, and run the installer.
 
 - Make sure you have an internet connection.
 - Open your terminal, or anaconda prompt if you are on windows.
-- Write the following and press enter at the end of each line:
+- Write the following and press enter:
 
   - :code:`conda --version`: you should see something like :code:`conda 4.1.8`
   - :code:`conda create -n yapp`
